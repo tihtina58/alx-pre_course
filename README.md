@@ -1,0 +1,1 @@
+This s a read me file for the first git project
